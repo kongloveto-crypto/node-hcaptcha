@@ -24,5 +24,5 @@ verify(secret, token)
       console.log('verification failed');
     }
   })
-  .catch(console.error);
+  .catch(console.error); 
 ```
